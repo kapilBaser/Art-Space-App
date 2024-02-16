@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="art1_desc">Two alpacas standing on dirt ground</string>
+    <string name="owner">Unsplash</string>
+    <string name="art2_desc">A single palm tree with green fronds sways gently against a clear blue sky.</string>
+    <string name="art3_desc">The vast blue ocean under a bright sky.</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
